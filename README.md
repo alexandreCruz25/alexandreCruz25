@@ -1,6 +1,10 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Tranquilo" width="45" /> , I'm Alexandre a 🇧🇷 Data Scientist
+  Olá 🤘🇧🇷, eu sou Alexandre
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Matemática+Aplicada;Resolvo+problemas+complexos" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
 </p>
