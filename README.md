@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Scientist;Applied+Mathematics;Solving+Complex+Problems" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alexandreCruz25/alexandreCruz25/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div style="text-align: center;"> ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg) </div>
 
 ---
 
