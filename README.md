@@ -8,11 +8,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Scientist;Applied+Mathematics;Solving+Complex+Problems" />
 </p>
+<div style="text-align: center;">
 
-<div style="text-align: center;"> 
-  ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg) 
+  ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg)
+
 </div>
-
 ---
 
 # 💫 About Me
