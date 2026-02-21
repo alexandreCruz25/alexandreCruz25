@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="33">, I'm Alexandre a 🇧🇷 Data Science
+  Hi , I'm Alexandre a 🇧🇷 Data Science
 </h1>
 &nbsp;
 
