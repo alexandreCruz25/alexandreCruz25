@@ -8,10 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Scientist;Matemática+Aplicada;Soluções+para+Problemas+Complexos" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alexandreCruz25/alexandreCruz25/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
+<div style="text-align: center;">
+
+  ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
 
 # 💫 About Me
 
@@ -63,21 +64,11 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandreCruz25&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreCruz25&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alexandreCruz25&theme=tokyonight" />
 </p>
 
----
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 
