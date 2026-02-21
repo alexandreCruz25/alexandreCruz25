@@ -1,11 +1,14 @@
-Hi there! I'm Alexandre 👋 🇧🇷
-
-# 💫 About Me:
-📊 Data Scientist | 🌍 Climate Modeling | 📐 Mathematician
+<h1 align="center">
+  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="33">, I'm Alexandre a 🇧🇷 Data Science
+</h1>
+&nbsp;
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
 </p>
+  
+# 💫 About Me:
+📊 Data Scientist | 🌍 Climate Modeling | 📐 Mathematician
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex._l.cruz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alexandre-cruz-11a273239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimadacruz2@gmail.com) 
@@ -21,6 +24,9 @@ Hi there! I'm Alexandre 👋 🇧🇷
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+ 
 
 
 
