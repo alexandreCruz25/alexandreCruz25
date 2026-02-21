@@ -1,15 +1,10 @@
-### 🕹️ My GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandreCruz25&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
 </p>
+
 # 💫 About Me:
 Alexandre Cruz 📈💡 | Matemática, Data Science e Curiosidade Infinita
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex._l.cruz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alexandre-cruz-11a273239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimadacruz2@gmail.com) 
 
