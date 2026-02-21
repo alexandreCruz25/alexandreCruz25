@@ -1,7 +1,8 @@
 <h1 align="center">
-  Oi 
+  Olá  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Eu sou Alexandre 🤘🇧🇷
+  Eu sou Alexandre 
+   <img src="https://media.giphy.com/media/l0HlOaQcLJ2hHpYdy/giphy.gif" width="40px">
 </h1>
 
 <p align="center">
