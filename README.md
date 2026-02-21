@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi , I'm Alexandre a 🇧🇷 Data Science
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Light%20Skin%20Tone.png" alt="Tranquilo" width="45" /> , I'm Alexandre a 🇧🇷 Data Science
 </h1>
-&nbsp;
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake/Pacman Animation" />
