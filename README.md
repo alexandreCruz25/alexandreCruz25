@@ -1,5 +1,7 @@
 <h1 align="center">
-  Olá!, eu sou Alexandre
+  Oi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  Eu sou Alexandre 🤘🇧🇷
 </h1>
 
 <p align="center">
@@ -7,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/alexandreCruz25/alexandreCruz25/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 # 💫 About Me
