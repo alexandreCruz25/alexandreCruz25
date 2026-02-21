@@ -1,7 +1,4 @@
-# 💫 About Me:
-Alexandre Cruz 📈💡 | Matemática, Data Science e Curiosidade Infinita
 ![Pacman Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Alexandre%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20|%20Climate%20Modeling&descAlignY=60&descSize=20)
-
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="35" height="35"> 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f352/512.gif" width="25" height="25"> 
