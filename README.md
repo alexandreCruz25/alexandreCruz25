@@ -1,30 +1,30 @@
 <h1 align="center">
-  Olá  
+  Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Eu sou Alexandre 
-   <img src="https://flagcdn.com/w40/br.png" width="40px">
+  I'm Alexandre 
+  <img src="https://flagcdn.com/w40/br.png" width="40px">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Scientist;Matemática+Aplicada;Soluções+para+Problemas+Complexos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Scientist;Applied+Mathematics;Solving+Complex+Problems" />
 </p>
 
-<div style="text-align: center;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexandreCruz25/alexandreCruz25/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-  ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
+---
 
 # 💫 About Me
 
 📊 Data Scientist  
-📐 Matemática Aplicada  
-🌍 Modelagem e Análise de Sistemas Complexos  
-🚀 Foco em problemas desafiadores e soluções orientadas por dados  
+📐 Applied Mathematics  
+🌍 Modeling and Analysis of Complex Systems  
+🚀 Focused on challenging problems and data-driven solutions  
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://instagram.com/alex._l.cruz" target="_blank">
@@ -48,8 +48,8 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -65,7 +65,6 @@
 
 # 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alexandreCruz25&theme=tokyonight" />
 </p>
@@ -77,6 +76,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 
 
