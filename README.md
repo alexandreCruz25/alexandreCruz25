@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá 🤘🇧🇷, eu sou Alexandre
+  Olá!, eu sou Alexandre
 </h1>
 
 <p align="center">
